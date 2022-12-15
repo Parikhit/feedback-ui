@@ -1,6 +1,6 @@
 # React Feedback App
 
-It allows users to add, update and delete feedback. It uses a mock REST api with json-server.
+It is a React Feedback App that serves as a feedback provider for a product or service. It is based  on  Context API and use-Context react hooks. Finally a mock backend using JSON Server  is created  for  CRUD  operations
 
 
 # Usage
